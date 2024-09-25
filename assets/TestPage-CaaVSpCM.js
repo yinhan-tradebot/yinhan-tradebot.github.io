@@ -1,0 +1,1 @@
+import{d as t,b as s,c as o,n as e}from"./index-CkBCnUpc.js";const n={},c={key:1,class:"row center",style:{color:"slategray",margin:"auto"}},a=e("div",{style:{"font-size":"200px"}},"殷涵",-1),r=e("div",{style:{"font-size":"80px"}},[e("div",null,"Yinhan"),e("div",null,"Tradebot")],-1),i=[a,r];function _(d,l){return s(),o("div",c,i)}const h=t(n,[["render",_]]);export{h as default};
