@@ -1,1 +1,0 @@
-import{_ as r}from"./MarkDown-Dood-m4t.js";import{o as s,j as o,$ as c}from"./index-DAXIAsZ9.js";const a={class:"m10 scroll"},m={__name:"MdPage",setup(t){return(e,_)=>(s(),o("div",a,[c(r,{src:e.$route.query.src},null,8,["src"])]))}};export{m as default};
