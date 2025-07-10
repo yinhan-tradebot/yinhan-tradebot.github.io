@@ -1,0 +1,382 @@
+{
+  "info": "delay all by 30%",
+  "drt": 149.0,
+  "cons": {
+    "Gas oil": {
+      "service": "Gas oil",
+      "Ahmadi Depot": 2,
+      "Sabhan Depot": 3,
+      "overall": 5,
+      "Ahmadi Depot_lim": 1,
+      "Sabhan Depot_lim": 1,
+      "overall_lim": 2
+    },
+    "Kerosene": {
+      "service": "Kerosene",
+      "Ahmadi Depot": 2,
+      "Sabhan Depot": 0,
+      "overall": 2,
+      "Ahmadi Depot_lim": 1,
+      "Sabhan Depot_lim": 0,
+      "overall_lim": 1
+    },
+    "Premuim": {
+      "service": "Premuim",
+      "Ahmadi Depot": 7,
+      "Sabhan Depot": 3,
+      "overall": 10,
+      "Ahmadi Depot_lim": 2,
+      "Sabhan Depot_lim": 1,
+      "overall_lim": 3
+    },
+    "Super Premuim": {
+      "service": "Super Premuim",
+      "Ahmadi Depot": 5,
+      "Sabhan Depot": 2,
+      "overall": 7,
+      "Ahmadi Depot_lim": 1,
+      "Sabhan Depot_lim": 1,
+      "overall_lim": 2
+    },
+    "UL 98": {
+      "service": "UL 98",
+      "Ahmadi Depot": 2,
+      "Sabhan Depot": 0,
+      "overall": 2,
+      "Ahmadi Depot_lim": 1,
+      "Sabhan Depot_lim": 0,
+      "overall_lim": 1
+    },
+    "Water": {
+      "service": "Water",
+      "Ahmadi Depot": 4,
+      "Sabhan Depot": 2,
+      "overall": 6,
+      "Ahmadi Depot_lim": 1,
+      "Sabhan Depot_lim": 1,
+      "overall_lim": 2
+    }
+  },
+  "tanks": [
+    {
+      "Sr.": 1,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-01",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 18.0,
+      "Duration Months": 12,
+      "new_duration": 15,
+      "start": 74
+    },
+    {
+      "Sr.": 2,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-02",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 18.0,
+      "Duration Months": 12,
+      "new_duration": 15,
+      "start": 109
+    },
+    {
+      "Sr.": 3,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-03",
+      "Service": "Super Premuim",
+      "Capacity (Million Litre)": 18.0,
+      "Duration Months": 12,
+      "new_duration": 15,
+      "start": 0
+    },
+    {
+      "Sr.": 4,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-04",
+      "Service": "Super Premuim",
+      "Capacity (Million Litre)": 4.5,
+      "Duration Months": 8,
+      "new_duration": 10,
+      "start": 138
+    },
+    {
+      "Sr.": 5,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-05",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 4.5,
+      "Duration Months": 8,
+      "new_duration": 10,
+      "start": 35
+    },
+    {
+      "Sr.": 6,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-06",
+      "Service": "Gas oil",
+      "Capacity (Million Litre)": 4.5,
+      "Duration Months": 8,
+      "new_duration": 10,
+      "start": 92
+    },
+    {
+      "Sr.": 7,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-07",
+      "Service": "Gas oil",
+      "Capacity (Million Litre)": 8.464,
+      "Duration Months": 10,
+      "new_duration": 13,
+      "start": 0
+    },
+    {
+      "Sr.": 8,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-08",
+      "Service": "Gas oil",
+      "Capacity (Million Litre)": 8.464,
+      "Duration Months": 10,
+      "new_duration": 13,
+      "start": 136
+    },
+    {
+      "Sr.": 9,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-09",
+      "Service": "Water",
+      "Capacity (Million Litre)": 1.25,
+      "Duration Months": 6,
+      "new_duration": 7,
+      "start": 15
+    },
+    {
+      "Sr.": 10,
+      "Site": "Sabhan Depot",
+      "Tank No.": "TK-SD-10",
+      "Service": "Water",
+      "Capacity (Million Litre)": 7.5,
+      "Duration Months": 10,
+      "new_duration": 13,
+      "start": 22
+    },
+    {
+      "Sr.": 11,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-01",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 18.0,
+      "Duration Months": 12,
+      "new_duration": 15,
+      "start": 61
+    },
+    {
+      "Sr.": 12,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-02",
+      "Service": "Super Premuim",
+      "Capacity (Million Litre)": 18.0,
+      "Duration Months": 12,
+      "new_duration": 15,
+      "start": 59
+    },
+    {
+      "Sr.": 13,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-03",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 4.5,
+      "Duration Months": 8,
+      "new_duration": 10,
+      "start": 0
+    },
+    {
+      "Sr.": 14,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-04",
+      "Service": "UL 98",
+      "Capacity (Million Litre)": 4.5,
+      "Duration Months": 8,
+      "new_duration": 10,
+      "start": 24
+    },
+    {
+      "Sr.": 15,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-05",
+      "Service": "UL 98",
+      "Capacity (Million Litre)": 1.5,
+      "Duration Months": 6,
+      "new_duration": 7,
+      "start": 65
+    },
+    {
+      "Sr.": 16,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-06",
+      "Service": "Kerosene",
+      "Capacity (Million Litre)": 9.0,
+      "Duration Months": 10,
+      "new_duration": 13,
+      "start": 26
+    },
+    {
+      "Sr.": 17,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-07",
+      "Service": "Kerosene",
+      "Capacity (Million Litre)": 9.0,
+      "Duration Months": 10,
+      "new_duration": 13,
+      "start": 136
+    },
+    {
+      "Sr.": 18,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-08",
+      "Service": "Gas oil",
+      "Capacity (Million Litre)": 28.0,
+      "Duration Months": 16,
+      "new_duration": 20,
+      "start": 116
+    },
+    {
+      "Sr.": 19,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-09",
+      "Service": "Gas oil",
+      "Capacity (Million Litre)": 28.0,
+      "Duration Months": 16,
+      "new_duration": 20,
+      "start": 90
+    },
+    {
+      "Sr.": 20,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-10",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 28.0,
+      "Duration Months": 16,
+      "new_duration": 20,
+      "start": 72
+    },
+    {
+      "Sr.": 21,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-11",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 28.0,
+      "Duration Months": 16,
+      "new_duration": 20,
+      "start": 89
+    },
+    {
+      "Sr.": 22,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-12",
+      "Service": "Super Premuim",
+      "Capacity (Million Litre)": 28.0,
+      "Duration Months": 16,
+      "new_duration": 20,
+      "start": 39
+    },
+    {
+      "Sr.": 23,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-13",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 28.0,
+      "Duration Months": 16,
+      "new_duration": 20,
+      "start": 45
+    },
+    {
+      "Sr.": 24,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-14",
+      "Service": "Super Premuim",
+      "Capacity (Million Litre)": 11.0,
+      "Duration Months": 11,
+      "new_duration": 14,
+      "start": 76
+    },
+    {
+      "Sr.": 25,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-15",
+      "Service": "Super Premuim",
+      "Capacity (Million Litre)": 11.0,
+      "Duration Months": 11,
+      "new_duration": 14,
+      "start": 124
+    },
+    {
+      "Sr.": 26,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-16",
+      "Service": "Super Premuim",
+      "Capacity (Million Litre)": 11.0,
+      "Duration Months": 11,
+      "new_duration": 14,
+      "start": 10
+    },
+    {
+      "Sr.": 27,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-17",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 11.0,
+      "Duration Months": 11,
+      "new_duration": 14,
+      "start": 34
+    },
+    {
+      "Sr.": 28,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-18",
+      "Service": "Premuim",
+      "Capacity (Million Litre)": 11.0,
+      "Duration Months": 11,
+      "new_duration": 14,
+      "start": 102
+    },
+    {
+      "Sr.": 29,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-19",
+      "Service": "Water",
+      "Capacity (Million Litre)": 7.5,
+      "Duration Months": 10,
+      "new_duration": 13,
+      "start": 110
+    },
+    {
+      "Sr.": 30,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-20",
+      "Service": "Water",
+      "Capacity (Million Litre)": 7.5,
+      "Duration Months": 10,
+      "new_duration": 13,
+      "start": 48
+    },
+    {
+      "Sr.": 31,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-21",
+      "Service": "Water",
+      "Capacity (Million Litre)": 7.5,
+      "Duration Months": 10,
+      "new_duration": 13,
+      "start": 123
+    },
+    {
+      "Sr.": 32,
+      "Site": "Ahmadi Depot",
+      "Tank No.": "TK-AD-22",
+      "Service": "Water",
+      "Capacity (Million Litre)": 7.5,
+      "Duration Months": 10,
+      "new_duration": 13,
+      "start": 13
+    }
+  ]
+}
