@@ -1,0 +1,1 @@
+import{_ as r}from"./MarkDown-DcWVBB5x.js";import{c as s,H as c,b as o}from"./index-BMrpJunR.js";const a={class:"m10 scroll"},m={__name:"MdPage",setup(t){return(e,_)=>(o(),s("div",a,[c(r,{src:e.$route.query.src},null,8,["src"])]))}};export{m as default};
